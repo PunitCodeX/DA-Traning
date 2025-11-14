@@ -335,12 +335,4 @@ SELECT MIN(NAME) FROM PERSONAL_INFO; #IT TELLS US THE LOWEST VALUE OF TABLE
 
 ======================== x x x x x x x ========================
 
-+-----------+
-| MIN(NAME) |
-+-----------+
-| AAYUSH    |
-+-----------+
-
-======================== x x x x x x x ========================
-
 #Made By Punit
